@@ -1,0 +1,3 @@
+<?=
+    "Ini adalah halaman dashboard";
+?>
